@@ -13,7 +13,6 @@ button{
 	width: 90px;
 	background-color: white;
 	border:none;
-	/*box-shadow: none;*/
 }
 
 button:hover{
@@ -22,6 +21,18 @@ button:hover{
 	border-color: #1742FC; 
 	height: 40px;
 }
-.pd-3{
+.pd-2{
 	padding: 2%;
+}
+
+.bg-white{
+	background-color: white;
+}
+.shadow{
+	box-shadow: 2px 2px 5px #999;
+}
+
+.boton_oscuro{
+	background-color: #02133F !important;
+	box-shadow: 2px 2px 5px #999;
 }
