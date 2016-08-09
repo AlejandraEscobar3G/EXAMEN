@@ -34,5 +34,14 @@ button:hover{
 
 .boton_oscuro{
 	background-color: #02133F !important;
-	box-shadow: 2px 2px 5px #999;
+}
+hr{
+	margin: 4%;
+}
+
+#p_packblue{
+	background-color: #0EB7F6;
+}
+.div{
+	padding-left:12.5% !important;
 }
